@@ -17,6 +17,7 @@ namespace Exercicio2HerancaPolimorf.Entities
 
         public override string PriceTag()
         {
+            Price +=  CustomsFee;
             return base.PriceTag() + "(Cystins fee: $ " + CustomsFee + ")";
         }
     }
