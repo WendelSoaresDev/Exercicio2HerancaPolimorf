@@ -17,7 +17,7 @@ namespace Exercicio2HerancaPolimorf.Entities
 
         public override string PriceTag()
         {
-            return Name + " (used) $ " + Price + "(Manufacture date: " + ManufactureDate + ")";
+            return Name + " (used) $ " + Price + " (Manufacture date: " + ManufactureDate.ToString("dd/MM/yyyy") + ")";
         }
     }
 }
