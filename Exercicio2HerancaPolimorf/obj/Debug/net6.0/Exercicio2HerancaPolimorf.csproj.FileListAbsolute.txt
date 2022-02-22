@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\bin\Debug\net6.0\Exercicio2HerancaPolimorf.exe
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\bin\Debug\net6.0\Exercicio2HerancaPolimorf.deps.json
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\bin\Debug\net6.0\Exercicio2HerancaPolimorf.runtimeconfig.json
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\bin\Debug\net6.0\Exercicio2HerancaPolimorf.dll
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\bin\Debug\net6.0\ref\Exercicio2HerancaPolimorf.dll
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\bin\Debug\net6.0\Exercicio2HerancaPolimorf.pdb
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\Exercicio2HerancaPolimorf.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\Exercicio2HerancaPolimorf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\Exercicio2HerancaPolimorf.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\Exercicio2HerancaPolimorf.AssemblyInfo.cs
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\Exercicio2HerancaPolimorf.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\Exercicio2HerancaPolimorf.dll
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\ref\Exercicio2HerancaPolimorf.dll
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\Exercicio2HerancaPolimorf.pdb
+C:\Temp\ws-vs2021\Exercicio2HerancaPolimorf\Exercicio2HerancaPolimorf\obj\Debug\net6.0\Exercicio2HerancaPolimorf.genruntimeconfig.cache
