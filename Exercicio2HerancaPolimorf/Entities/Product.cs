@@ -18,7 +18,7 @@ namespace Exercicio2HerancaPolimorf.Entities
             Price = price;
         }
 
-        public string PriceTag()
+        public virtual string PriceTag()
         {
             return Name + " $ " + Price;
         }
